@@ -14,6 +14,7 @@ The members of this team are the following:
 - Sophie Lei (https://github.com/Sophlei)
 - Karolina Guzauskaite (https://github.com/KaroGu)
 - Nathalia Fernandes (https://github.com/nathaliaraquelx)
+- Sarah Haggenmueller (https://github.com/SarahHagg)
 - Camille Baudrier 
 
 
