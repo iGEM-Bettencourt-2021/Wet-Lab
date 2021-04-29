@@ -15,7 +15,7 @@ The members of this team are the following:
 - Karolina Guzauskaite (https://github.com/KaroGu)
 - Nathalia Fernandes (https://github.com/nathaliaraquelx)
 - Sarah Haggenmueller (https://github.com/SarahHagg)
-
+- Daria Fedorova (https://github.com/dosvidaria)
 
 For any questions, comments and others, please contact us through the GitHub (by adding comments for example, replying to an issue) or contact:  
 Juliette (juliette.bellengier@cri-paris.org) or Camila (coco.ballenghien@gmail.com) 
