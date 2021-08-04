@@ -1,7 +1,7 @@
 # Wet-Lab
 
 
-Welcome to the Wet-Lab GitHub page for iGEM 2021 Bettencourt team! 
+Welcome to the Wet-Lab repository! 
 You will find there all the relevant informations and links related to the experimental design and procedures of this project from ideas brainstorming to experimental setups and protocols. 
 
 
